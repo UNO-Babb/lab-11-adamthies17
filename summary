@@ -1,0 +1,4 @@
+"""I made a couple changes to the code, I assumed that most people would be shopping for a larger number of items so I made the item number a random choice between mostly 15, 15, and 20 items.
+I also changed the average shop time per item to be longer on average since some people take longer to get around the store and make their decisions.
+Lastly I changed the aount of shoppers every two minutes to 10 shoppers be two minutes to simulate a busier store. 
+I learned that when people take longer to shop, it gives the cashiers more time to check others out so the line doesn't get terribly backed up. I found that in this case only a couple of cashiers were necessary for the flow of people to be smootha nd not too long."""
